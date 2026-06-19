@@ -1,0 +1,184 @@
+{
+    "categories": [
+        {
+            "name": "Account Management",
+            "description": "Managing customer accounts and profiles.",
+            "items": [
+                {
+                    "title": "How to create an account",
+                    "content": "To create an account, click Sign Up, enter your email address, choose a password, and verify your email."
+                },
+                {
+                    "title": "How to update your profile",
+                    "content": "Navigate to Account Settings and update your personal information. Changes are saved automatically."
+                },
+                {
+                    "title": "How to delete your account",
+                    "content": "Contact support or visit Account Settings and select Delete Account. This action cannot be undone."
+                }
+            ]
+        },
+        {
+            "name": "Password & Security",
+            "description": "Password resets and account security.",
+            "items": [
+                {
+                    "title": "Reset your password",
+                    "content": "Click Forgot Password on the login screen and follow the instructions sent to your email."
+                },
+                {
+                    "title": "Enable two-factor authentication",
+                    "content": "Go to Security Settings and enable two-factor authentication using an authenticator application."
+                },
+                {
+                    "title": "Account locked after failed logins",
+                    "content": "Accounts are temporarily locked after multiple failed login attempts. Wait 15 minutes before trying again."
+                }
+            ]
+        },
+        {
+            "name": "Billing",
+            "description": "Billing and invoicing information.",
+            "items": [
+                {
+                    "title": "View invoices",
+                    "content": "Invoices are available under Billing History in your account dashboard."
+                },
+                {
+                    "title": "Update payment method",
+                    "content": "Navigate to Billing Settings and add or update your credit card details."
+                },
+                {
+                    "title": "Failed payment",
+                    "content": "If a payment fails, verify your card information and ensure sufficient funds are available."
+                }
+            ]
+        },
+        {
+            "name": "Refunds",
+            "description": "Refund policies and requests.",
+            "items": [
+                {
+                    "title": "Request a refund",
+                    "content": "Refund requests must be submitted within 30 days of purchase."
+                },
+                {
+                    "title": "Refund processing time",
+                    "content": "Approved refunds are processed within 5 to 10 business days."
+                },
+                {
+                    "title": "Refund eligibility",
+                    "content": "Refund eligibility depends on the product and subscription terms."
+                }
+            ]
+        },
+        {
+            "name": "Subscriptions",
+            "description": "Subscription plans and renewals.",
+            "items": [
+                {
+                    "title": "Upgrade your plan",
+                    "content": "You can upgrade your subscription at any time from the Subscription page."
+                },
+                {
+                    "title": "Cancel subscription",
+                    "content": "Subscriptions can be cancelled from Account Settings before the next billing cycle."
+                },
+                {
+                    "title": "Automatic renewals",
+                    "content": "Subscriptions renew automatically unless cancelled before the renewal date."
+                }
+            ]
+        },
+        {
+            "name": "Orders",
+            "description": "Order management and tracking.",
+            "items": [
+                {
+                    "title": "Track your order",
+                    "content": "Order tracking information is available from the Orders page once shipped."
+                },
+                {
+                    "title": "Modify an order",
+                    "content": "Orders may be modified within one hour after placement."
+                },
+                {
+                    "title": "Cancel an order",
+                    "content": "Orders can be cancelled before they enter fulfillment."
+                }
+            ]
+        },
+        {
+            "name": "Shipping",
+            "description": "Shipping and delivery information.",
+            "items": [
+                {
+                    "title": "Shipping times",
+                    "content": "Standard shipping takes 3 to 7 business days depending on location."
+                },
+                {
+                    "title": "International shipping",
+                    "content": "International shipping is available to selected countries."
+                },
+                {
+                    "title": "Lost package",
+                    "content": "Contact support if your package has not arrived within the estimated delivery window."
+                }
+            ]
+        },
+        {
+            "name": "Technical Support",
+            "description": "Troubleshooting technical issues.",
+            "items": [
+                {
+                    "title": "Application not loading",
+                    "content": "Clear your browser cache and cookies, then try again."
+                },
+                {
+                    "title": "Unable to upload files",
+                    "content": "Ensure your file size does not exceed the maximum upload limit."
+                },
+                {
+                    "title": "Browser compatibility",
+                    "content": "The application supports the latest versions of Chrome, Firefox, Safari, and Edge."
+                }
+            ]
+        },
+        {
+            "name": "API Support",
+            "description": "API access and integration help.",
+            "items": [
+                {
+                    "title": "Generate API keys",
+                    "content": "API keys can be generated from the Developer Settings section."
+                },
+                {
+                    "title": "API rate limits",
+                    "content": "The default API rate limit is 1000 requests per hour."
+                },
+                {
+                    "title": "Authentication errors",
+                    "content": "Verify that your API key is active and included in the Authorization header."
+                }
+            ]
+        },
+        {
+            "name": "Privacy & Compliance",
+            "description": "Data privacy and compliance information.",
+            "items": [
+                {
+                    "title": "Request personal data",
+                    "content": "Customers may request a copy of their personal data through the Privacy Center."
+                },
+                {
+                    "title": "Delete personal data",
+                    "content": "Data deletion requests are processed within 30 days."
+                },
+                {
+                    "title": "GDPR compliance",
+                    "content": "Our platform complies with GDPR requirements for data protection and privacy."
+                }
+            ]
+        }
+    ]
+}
